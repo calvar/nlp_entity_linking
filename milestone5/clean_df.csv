@@ -1,0 +1,6 @@
+kp,sentence_text,match_score,comment_id,sentence_id,sents_in_comment,span_start,span_end,num_tokens,argument_quality,id,id_description,medical_specialty_new
+ Possible inflammatory bowel disease, Laparoscopic right partial nephrectomy due to right renal mass.,0.9816177487373352,2014,0,1,0,64,9,0.5232376456260681,2014,1516, Nephrology
+ Risk factors for coronary heart disease., Mild-to-moderate obstructive ventilatory impairment,0.9804843068122864,931,0,1,0,52,6,0.5702477097511292,931,924, Cardiovascular / Pulmonary
+" Right shoulder impingement syndrome, right suprascapular neuropathy.", Cervical spondylosis and kyphotic deformity,0.9804210662841796,2899,0,1,0,44,5,0.534918487071991,2899,2079, Orthopedic
+ Urgent cardiac catheterization with coronary angiogram., The internal carotid artery had good backflow bleeding noted.,0.980095148086548,2242,0,1,0,62,9,0.4630091488361358,2242,1626, Cardiovascular / Pulmonary
+ Hemoptysis and history of lung cancer,"  Chronic pelvic pain, probably secondary to endometriosis.",0.9806874394416808,1688,0,1,0,59,7,0.5847349762916565,1688,1352, Obstetrics / Gynecology
